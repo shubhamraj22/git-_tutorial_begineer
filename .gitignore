@@ -8,3 +8,4 @@ three.log
 *.log
 nodemodules/
 !important.log
+about.html
