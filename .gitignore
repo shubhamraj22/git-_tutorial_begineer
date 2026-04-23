@@ -1,0 +1,10 @@
+db.sql
+
+one.log
+two.log
+three.log
+#so if there are hundred log dont need to enter each one by one just a dd a pattern
+*.txt
+*.log
+nodemodules/
+!important.log
